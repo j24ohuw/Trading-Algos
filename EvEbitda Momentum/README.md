@@ -6,7 +6,7 @@ How it works
 * Stocks are ranked based on EV/EBITDA ratio (Crudely, high means overvalued and low means undervalued, similar to PE ratio)
 * Choose _n_ stocks with the lowest EV/EBITDA ratio
 * Choose the _m_ (_< n_) stocks with highest momentum 
-* rebalance monthly
+* Rebalance monthly, equal weighted
 
 ![Backtest result](https://raw.githubusercontent.com/j24ohuw/Trading-Algos/master/EvEbitda%20Momentum/2003-02-03%20to%202015-05-21.PNG)
 -----
