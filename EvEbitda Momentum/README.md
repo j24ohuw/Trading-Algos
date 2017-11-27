@@ -16,4 +16,4 @@ Backtest Result
 -----
 ![Backtest result](https://raw.githubusercontent.com/j24ohuw/Trading-Algos/master/EvEbitda%20Momentum/2003-02-03%20to%202015-05-21.PNG)
 
-Most of the algorithm's out-performance comes from previous decade. It underperforms against the benchmark (SPX) in the current decade due to the progressively worsening performance of the value factor. This phenomenon is well described [#### here](https://www.msci.com/www/blog-posts/the-value-factor-marks-a-decade/0313945437). Sorting by EV/EBITDA in descending order and applying momentum seems to achieve a small edge between Jan 2014 to Nov 2017.
+Most of the algorithm's out-performance comes from previous decade. It underperforms against the benchmark (SPX) in the current decade due to the progressively worsening performance of the value factor. This phenomenon is well described [here](https://www.msci.com/www/blog-posts/the-value-factor-marks-a-decade/0313945437). Sorting by EV/EBITDA in descending order and applying momentum seems to achieve a small edge between Jan 2014 to Nov 2017.
